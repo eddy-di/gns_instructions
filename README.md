@@ -7,6 +7,7 @@
 - [ЭСФ](./instructions/esf.md)
 - [Соцфонд оплата](./instructions/socfond_platezhka.md)
 - [Соцфонд отчет](./instructions/socfond_report.md)
+- [Соцфонд отчет от 5 марта 2025](./instructions/socfond_new_2025.md)
 
 ## Ежеквартально
 

@@ -17,3 +17,7 @@
 
 - [ПОРЯДОК заполнения и представления Единой налоговой декларации физического лица, осуществляющего предпринимательскую деятельность (FORMSTI-102)](https://sti.gov.kg/stsStorage/websti/2024/12/30/stidocument_174127e1-b26a-4639-a0fc-317f86e4d275.pdf)
 - [Пример заполнения](https://sti.gov.kg/stsStorage/websti/2025/1/16/stidocument_1976dcf3-ebd5-4ac3-b71b-c5def4d75cd1.pdf)
+
+
+## Ссылки разъясняющие некоторые моменты
+- [Кассовый метод и метод начисления: в чём разница и какой выбрать](https://fintablo.ru/money/kassovyy-metod-i-metod-nachisleniya-raznitsa)

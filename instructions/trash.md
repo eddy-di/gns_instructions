@@ -3,6 +3,7 @@
 **Необходимо авторизоваться на сайте [cabinet.salyk.kg](https://cabinet.salyk.kg)**
 
 ---
+⚠️⚠️⚠️ВАЖНО⚠️⚠️⚠️
 > В обязательном порядке прежде чем оплачивать необходимо проверить ставку за вывоз мусора по месту регистрации ИП. Можно проверить по данному адресу: [https://sti.gov.kg/stsStorage/websti/2023/10/30/stidocument_e5a31adb-6eb8-4758-92d0-a6e2fd0c37ec.pdf](https://sti.gov.kg/stsStorage/websti/2023/10/30/stidocument_e5a31adb-6eb8-4758-92d0-a6e2fd0c37ec.pdf)
 > либо введя в гугле `оплата мусора ип (место регистрации)`
 
